@@ -101,4 +101,10 @@ Für Lizenzierung, Kooperationen, Forschungsanfragen oder kommerzielle Nutzung:
 
 ## 📂 Repository‑Struktur
 
+---
+## 🌍 Leitgedanke
+
+> *„Leistung allein reicht nicht mehr.  
+> Technologie muss die Umwelt schützen – und genau das tut GreenRAM.“*
+
 
