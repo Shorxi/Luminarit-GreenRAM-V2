@@ -50,6 +50,7 @@ For licensing, collaboration, research inquiries or commercial use:
 - [GreenRAM_Simulation_EN.pdf](GreenRAM_Simulation_EN.pdf)
 - [LICENSE.md](LICENSE.md)
 - [contakt.md](contakt.md)
+- [About.md](About.md)
 ---
 
 ## 🌍 Mission Statement
@@ -112,6 +113,7 @@ Für Lizenzierung, Kooperationen, Forschungsanfragen oder kommerzielle Nutzung:
 - [GreenRAM_Simulation_DE.pdf](GreenRAM_Simulation_DE.pdf)
 - [LICENSE.md](LICENSE.md)
 - [contakt.md](contakt.md)
+- [About.md](About.md)
 ---
 ## 🌍 Leitgedanke
 
