@@ -51,7 +51,7 @@ For licensing, collaboration, research inquiries or commercial use:
 - [Luminarit‑GreenRAM-V2_EN.pdf](Luminarit‑GreenRAM-V2_EN.pdf)
 - [GreenRAM_Simulation_EN.pdf](GreenRAM_Simulation_EN.pdf)
 - [LICENSE.md](LICENSE.md)
-- [contakt.md](contakt.md)
+- [contact.md](contact.md)
 - [About.md](About.md)
 ---
 
@@ -116,7 +116,7 @@ Für Lizenzierung, Kooperationen, Forschungsanfragen oder kommerzielle Nutzung:
 - [Luminarit‑GreenRAM-V2_DE.pdf](Luminarit‑GreenRAM-V2_DE.pdf)
 - [GreenRAM_Simulation_DE.pdf](GreenRAM_Simulation_DE.pdf)
 - [LICENSE.md](LICENSE.md)
-- [contakt.md](contakt.md)
+- [contact.md](contact.md)
 - [About.md](About.md)
 ---
 ## 🌍 Leitgedanke
