@@ -7,6 +7,8 @@ high‑speed operation, full CMOS compatibility, and radically reduced ecologica
 The architecture eliminates refresh cycles, avoids rare earth materials,  
 and enables manufacturing on existing 65–90 nm DUV fabs.
 
+- [Why-GreenRAM?](Why-GreenRAM.md)
+
 ---
 
 ## 📘 Key Features
@@ -68,6 +70,7 @@ High‑Speed‑Betrieb, volle CMOS‑Kompatibilität und eine drastisch reduzier
 ökologische Belastung entwickelt wurde.  
 Die Architektur eliminiert Refresh‑Zyklen, verzichtet vollständig auf seltene Erden  
 und kann in bestehenden 65–90 nm DUV‑Fabs gefertigt werden.
+[Why-GreenRAM?](Why-GreenRAM.md)
 
 ---
 
