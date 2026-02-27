@@ -1,4 +1,4 @@
-# Luminarit‑GreenRAM V2 & Luminarit‑GreenRAM_V2.1–Server‑Grade– License 
+# Luminarit‑GreenRAM V2 & Luminarit‑GreenRAM_V2.1–Server‑Grade – License 
 ## (Englisch & Deutsch)
 
 ---
