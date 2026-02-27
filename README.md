@@ -29,7 +29,7 @@ Use of **Luminarit‑GreenRAM V2 & Luminarit‑GreenRAM_V2.1–Server‑Grade** 
 **but requires fair revenue sharing** to fund future sustainable technology development.
 
 Full license text:  
-See [LICENSE.md](LICENSE.md)
+See [LICENSE](LICENSE.md)
 
 
 ---
@@ -46,15 +46,15 @@ For licensing, collaboration, research inquiries or commercial use:
 ---
 
 ## 📂 Repository Structure
-- [Description.md](Description.md)
-- [Revenue‑Sharing-License.pdf](Revenue‑Sharing-License.pdf)
-- [Luminarit‑GreenRAM-V2_EN.pdf](Luminarit‑GreenRAM-V2_EN.pdf)
-- [Luminarit‑GreenRAM_V2.1–Server‑Grade_EN.pdf](Luminarit‑GreenRAM_V2.1–Server‑Grade_EN.pdf)
-- [GreenRAM_Simulation_EN.pdf](GreenRAM_Simulation_EN.pdf)
-- [(Server-Grade)_Simulation_EN.pdf]((Server-Grade)_Simulation_EN.pdf)
-- [LICENSE.md](LICENSE.md)
-- [contact.md](contact.md)
-- [About.md](About.md)
+- [Description](Description.md)
+- [Revenue‑Sharing-License](Revenue‑Sharing-License.pdf)
+- [Luminarit‑GreenRAM-V2_EN](Luminarit‑GreenRAM-V2_EN.pdf)
+- [Luminarit‑GreenRAM_V2.1–Server‑Grade_EN](Luminarit‑GreenRAM_V2.1–Server‑Grade_EN.pdf)
+- [GreenRAM_Simulation_EN](GreenRAM_Simulation_EN.pdf)
+- [(Server-Grade)_Simulation_EN]((Server-Grade)_Simulation_EN.pdf)
+- [LICENSE](LICENSE.md)
+- [contact](contact.md)
+- [About](About.md)
 ---
 
 ## 🌍 Mission Statement
@@ -96,7 +96,7 @@ Die Nutzung von **Luminarit‑GreenRAM V2 & Luminarit‑GreenRAM_V2.1–Server�
 nachhaltiger Technologieprojekte voraus.
 
 Vollständiger Lizenztext:  
-Siehe [LICENSE.md](LICENSE.md)
+Siehe [LICENSE](LICENSE.md)
 
 
 ---
