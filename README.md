@@ -51,6 +51,7 @@ For licensing, collaboration, research inquiries or commercial use:
 - [Luminarit‑GreenRAM-V2_EN](Luminarit‑GreenRAM-V2_EN.pdf)
 - [Luminarit‑GreenRAM_V2.1–Server‑Grade_EN](Luminarit‑GreenRAM_V2.1–Server‑Grade_EN.pdf)
 - [GreenRAM_Simulation_EN](GreenRAM_Simulation_EN.pdf)
+- [Technical data](GreenRAM_V2.–Server‑Grade_Simulation_Data_EN.pdf)
 - [(Server-Grade)_Simulation_EN]((Server-Grade)_Simulation_EN.pdf)
 - [LICENSE](LICENSE.md)
 - [contact](contact.md)
