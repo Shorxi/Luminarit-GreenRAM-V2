@@ -113,15 +113,15 @@ Für Lizenzierung, Kooperationen, Forschungsanfragen oder kommerzielle Nutzung:
 ---
 
 ## 📂 Repository‑Struktur
-- [Description.md](Description.md)
-- [Gewinnbeteiligungslizenz.pdf](Gewinnbeteiligungslizenz.pdf)
-- [Luminarit‑GreenRAM-V2_DE.pdf](Luminarit‑GreenRAM-V2_DE.pdf)
-- [Luminarit‑GreenRAM_V2.1–Server‑Grade_DE.pdf](Luminarit‑GreenRAM_V2.1–Server‑Grade_DE.pdf)
-- [GreenRAM_Simulation_DE.pdf](GreenRAM_Simulation_DE.pdf)
+- [Description](Description.md)
+- [Gewinnbeteiligungslizenz](Gewinnbeteiligungslizenz.pdf)
+- [Luminarit‑GreenRAM-V2_DE](Luminarit‑GreenRAM-V2_DE.pdf)
+- [Luminarit‑GreenRAM_V2.1–Server‑Grade_DE](Luminarit‑GreenRAM_V2.1–Server‑Grade_DE.pdf)
+- [GreenRAM_Simulation_DE](GreenRAM_Simulation_DE.pdf)
 - [(Server-Grade)_Simulation_DE]((Server-Grade)_Simulation_DE.pdf)
-- [LICENSE.md](LICENSE.md)
-- [contact.md](contact.md)
-- [About.md](About.md)
+- [LICENSE](LICENSE.md)
+- [contact](contact.md)
+- [About](About.md)
 ---
 ## 🌍 Leitgedanke
 
