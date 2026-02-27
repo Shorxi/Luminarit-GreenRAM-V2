@@ -1,5 +1,5 @@
 EN:
-# Luminarit‑GreenRAM V2  
+# Luminarit‑GreenRAM V2 & Luminarit‑GreenRAM_V2.1–Server‑Grade
 ### Rare‑Earth‑Free, Sustainable, High‑Speed Non‑Volatile Memory Architecture
 
 Luminarit‑GreenRAM V2 is a next‑generation memory concept designed for  
@@ -49,7 +49,9 @@ For licensing, collaboration, research inquiries or commercial use:
 - [Description.md](Description.md)
 - [Revenue‑Sharing-License.pdf](Revenue‑Sharing-License.pdf)
 - [Luminarit‑GreenRAM-V2_EN.pdf](Luminarit‑GreenRAM-V2_EN.pdf)
+- [Luminarit‑GreenRAM_V2.1–Server‑Grade_EN.pdf](Luminarit‑GreenRAM_V2.1–Server‑Grade_EN.pdf)
 - [GreenRAM_Simulation_EN.pdf](GreenRAM_Simulation_EN.pdf)
+- [(Server-Grade)_Simulation_EN.pdf]((Server-Grade)_Simulation_EN.pdf)
 - [LICENSE.md](LICENSE.md)
 - [contact.md](contact.md)
 - [About.md](About.md)
@@ -114,7 +116,9 @@ Für Lizenzierung, Kooperationen, Forschungsanfragen oder kommerzielle Nutzung:
 - [Description.md](Description.md)
 - [Gewinnbeteiligungslizenz.pdf](Gewinnbeteiligungslizenz.pdf)
 - [Luminarit‑GreenRAM-V2_DE.pdf](Luminarit‑GreenRAM-V2_DE.pdf)
+- [Luminarit‑GreenRAM_V2.1–Server‑Grade_DE.pdf](Luminarit‑GreenRAM_V2.1–Server‑Grade_DE.pdf)
 - [GreenRAM_Simulation_DE.pdf](GreenRAM_Simulation_DE.pdf)
+- [(Server-Grade)_Simulation_DE]((Server-Grade)_Simulation_DE)
 - [LICENSE.md](LICENSE.md)
 - [contact.md](contact.md)
 - [About.md](About.md)
