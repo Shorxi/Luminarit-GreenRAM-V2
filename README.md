@@ -29,7 +29,7 @@ Use of **Luminarit‑GreenRAM V2 & Luminarit‑GreenRAM_V2.1–Server‑Grade** 
 **but requires fair revenue sharing** to fund future sustainable technology development.
 
 Full license text:  
-See [LICENSE](LICENSE.md)
+-See [LICENSE](LICENSE.md)
 See [LICENSE](Exklusivitäts-und_Lizenz-Erklärung.pdf)
 
 ---
@@ -97,8 +97,8 @@ Die Nutzung von **Luminarit‑GreenRAM V2 & Luminarit‑GreenRAM_V2.1–Server�
 nachhaltiger Technologieprojekte voraus.
 
 Vollständiger Lizenztext:  
-Siehe [LICENSE](LICENSE.md)
-Siehe [LICENSE](Exklusivitäts-und_Lizenz-Erklärung.pdf)
+-Siehe [LICENSE](LICENSE.md)
+-Siehe [LICENSE](Exklusivitäts-und_Lizenz-Erklärung.pdf)
 
 ---
 
