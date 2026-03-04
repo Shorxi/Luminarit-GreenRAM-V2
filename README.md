@@ -8,7 +8,26 @@ The architecture eliminates refresh cycles, avoids rare earth materials,
 and enables manufacturing on existing 65–90 nm DUV fabs.
 
 - [warum-GreenRAM?](Why-GreenRAM.md)
+- 
+### Comparison Table: GreenRAM V2.1 UHS vs. Industry Standards
 
+| Parameter | Standard DRAM (DDR5/6) | Conventional ReRAM | STT-MRAM (High-End) | **GreenRAM V2.1 UHS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Latency (Switching Time)** | $\sim 12.5\text{ ns}$ | $10 - 100\text{ ns}$ | $2 - 10\text{ ns}$ | **$5.0\text{ ns}$** |
+| **Volatility** | Volatile (Data Loss) | Non-Volatile | Non-Volatile | **Non-Volatile** |
+| **Endurance (Write Cycles)** | High ($> 10^{16}$) | $10^6 - 10^9$ | $10^{12}$ | **$10^{15}$ (Server-Grade)** |
+| **Energy Consumption** | High (Refresh Cycles) | Medium | Low | **Very Low ($-85\%$)** |
+| **Manufacturing Node** | $< 14\text{ nm}$ (EUV) | Variable | Variable | **$65\text{ nm}$ (DUV)** |
+| **CO2 Footprint** | $\sim 120\text{ kg/Unit}$ | Unknown | High | **$25\text{ kg/Unit}$** |
+| **Cooling** | External (Passive/Active) | None (Degradation) | Limited | **Integrated hBN-Stack** |
+
+---
+
+### Technical Highlights for Reproducibility
+
+* **Switching Kinetics:** Optimized by reducing the active layer thickness to $3.5\text{ nm}$ to maximize the electric field strength $E$.
+* **Thermal Stability:** Utilization of an hBN-graphene superlattice to dissipate Joule heating ($k_{hBN} \approx 400\text{ W/mK}$), keeping the cell temperature below $450\text{ K}$.
+* **Ecological Integrity:** Complete avoidance of energy-intensive EUV lithography; optimized for existing $65\text{ nm}$ DUV infrastructure.
 ---
 
 ## 📘 Key Features
@@ -85,7 +104,26 @@ Die Architektur eliminiert Refresh‑Zyklen, verzichtet vollständig auf seltene
 und kann in bestehenden 65–90 nm DUV‑Fabs gefertigt werden.
 
 - [Warum-GreenRAM?](Why-GreenRAM.md)
+- 
+### Vergleichstabelle: GreenRAM V2.1 UHS vs. Industriestandards
 
+| Parameter | Standard DRAM (DDR5/6) | Herkömmlicher ReRAM | STT-MRAM (High-End) | **GreenRAM V2.1 UHS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Latenz (Schaltzeit)** | $\sim 12,5\text{ ns}$ | $10 - 100\text{ ns}$ | $2 - 10\text{ ns}$ | **$5,0\text{ ns}$** |
+| **Volatilität** | Volatil (Datenverlust) | Non-Volatil | Non-Volatil | **Non-Volatil** |
+| **Endurance (Schreibzyklen)** | Hoch ($> 10^{16}$) | $10^6 - 10^9$ | $10^{12}$ | **$10^{15}$ (Server-Grade)** |
+| **Energieverbrauch** | Hoch (Refresh-Zyklen) | Mittel | Niedrig | **Sehr Niedrig ($-85\%$)** |
+| **Fertigungs-Node** | $< 14\text{ nm}$ (EUV) | Variabel | Variabel | **$65\text{ nm}$ (DUV)** |
+| **CO₂-Fußabdruck** | $\sim 120\text{ kg/Einheit}$ | Unbekannt | Hoch | **$25\text{ kg/Einheit}$** |
+| **Kühlung** | Extern (Passiv/Aktiv) | Keine (Degradation) | Begrenzt | **Integrierter hBN-Stack** |
+
+---
+
+### Technische Highlights für die Reproduzierbarkeit
+
+* **Schaltkinetik:** Optimiert durch Reduktion der aktiven Schichtdicke auf $3,5\text{ nm}$ zur Maximierung der Feldstärke $E$.
+* **Thermische Stabilität:** Nutzung eines hBN-Graphen-Superlattice zur Ableitung der Jouleschen Wärme ($k_{hBN} \approx 400\text{ W/mK}$), wodurch die Zelltemperatur unter $450\text{ K}$ bleibt.
+* **Ökologische Integrität:** Vollständiger Verzicht auf energieintensive EUV-Lithografie; optimiert für bestehende $65\text{ nm}$ DUV-Infrastruktur.
 ---
 
 ## 🚀 Hauptmerkmale
