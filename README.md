@@ -1,8 +1,8 @@
 EN:
-# Luminarit‑GreenRAM V2 & Luminarit‑GreenRAM_V2.1–Server‑Grade
+# Luminarit‑GreenRAM V2 & Luminarit‑GreenRAM_V2.1–Server‑Grade & GreenRAM_V2.1_UHS
 ### Rare‑Earth‑Free, Sustainable, High‑Speed Non‑Volatile Memory Architecture
 
-Luminarit‑GreenRAM V2 & Luminarit‑GreenRAM_V2.1–Server‑Grade is a next‑generation memory concept designed for  
+Luminarit‑GreenRAM V2 & Luminarit‑GreenRAM_V2.1–Server‑Grade & GreenRAM_V2.1_UHS is a next‑generation memory concept designed for  
 high‑speed operation, full CMOS compatibility, and radically reduced ecological impact.  
 The architecture eliminates refresh cycles, avoids rare earth materials,  
 and enables manufacturing on existing 65–90 nm DUV fabs.
@@ -13,7 +13,7 @@ and enables manufacturing on existing 65–90 nm DUV fabs.
 
 ## 📘 Key Features
 
-- ⚡ **Luminarit‑GreenRAM V2 <10ns | GreenRAM_V2.1–Server‑Grade <8ns latency**  
+- ⚡ **Luminarit‑GreenRAM V2 <10ns | GreenRAM_V2.1–Server‑Grade <8ns | GreenRAM_V2.1_UHS <5 ns latency**
 - 🔋 **0 W idle power (no refresh)**  
 - 🌱 **0% rare earth elements**  
 - 🏭 **Manufacturable on existing 200/300 mm fabs**  
@@ -25,7 +25,7 @@ and enables manufacturing on existing 65–90 nm DUV fabs.
 
 ## 📄 License
 
-Use of **Luminarit‑GreenRAM V2 & Luminarit‑GreenRAM_V2.1–Server‑Grade** is permitted,  
+Use of **Luminarit‑GreenRAM V2 & Luminarit‑GreenRAM_V2.1–Server‑Grade & GreenRAM_V2.1_UHS** is permitted,  
 **but requires fair revenue sharing** to fund future sustainable technology development.
 
 Full license text:  
@@ -41,7 +41,7 @@ For licensing, collaboration, research inquiries or commercial use:
 **Name:** Emanuel Schaaf  
 **Email:** [emanuel.schaaf@outlook.com](mailto:emanuel.schaaf@outlook.com)  
 **Location:** Pirmasens, Germany  
-**Role:** Architect & Originator of the Luminarit‑GreenRAM V2 Luminarit‑GreenRAM_V2.1–Server‑Grade Technology
+**Role:** Architect & Originator of the Luminarit‑GreenRAM V2 & Luminarit‑GreenRAM_V2.1–Server‑Grade & GreenRAM_V2.1_UHS Technology
 
 ---
 
@@ -68,7 +68,7 @@ DE:
 # Luminarit‑GreenRAM V2  
 ### Seltenerd‑frei, nachhaltig, hochperformant – die nächste Generation nicht‑flüchtiger Speichertechnologie
 
-Luminarit‑GreenRAM V2 & Luminarit‑GreenRAM_V2.1–Server‑Grade ist ein neuartiges Speicherkonzept, das für  
+Luminarit‑GreenRAM V2 & Luminarit‑GreenRAM_V2.1–Server‑Grade & GreenRAM_V2.1_UHS ist ein neuartiges Speicherkonzept, das für  
 High‑Speed‑Betrieb, volle CMOS‑Kompatibilität und eine drastisch reduzierte  
 ökologische Belastung entwickelt wurde.  
 Die Architektur eliminiert Refresh‑Zyklen, verzichtet vollständig auf seltene Erden  
@@ -80,7 +80,7 @@ und kann in bestehenden 65–90 nm DUV‑Fabs gefertigt werden.
 
 ## 🚀 Hauptmerkmale
 
-- ⚡ **Luminarit‑GreenRAM V2 <10ns | GreenRAM_V2.1–Server‑Grade <8ns Latenz**  
+- ⚡ **Luminarit‑GreenRAM V2 <10ns | GreenRAM_V2.1–Server‑Grade <8ns | GreenRAM_V2.1_UHS <5ns Latenz**  
 - 🔋 **0 W Idle‑Verbrauch (kein Refresh)**  
 - 🌱 **0 % seltene Erden**  
 - 🏭 **Fertigung auf bestehenden 200/300‑mm‑Fabs möglich**  
@@ -92,7 +92,7 @@ und kann in bestehenden 65–90 nm DUV‑Fabs gefertigt werden.
 
 ## 📄 Lizenz
 
-Die Nutzung von **Luminarit‑GreenRAM V2 & Luminarit‑GreenRAM_V2.1–Server‑Grade** ist erlaubt,  
+Die Nutzung von **Luminarit‑GreenRAM V2 & Luminarit‑GreenRAM_V2.1–Server‑Grade & GreenRAM_V2.1_UHS** ist erlaubt,  
 **setzt jedoch eine faire Gewinnbeteiligung** zur Finanzierung zukünftiger  
 nachhaltiger Technologieprojekte voraus.
 
@@ -109,7 +109,7 @@ Für Lizenzierung, Kooperationen, Forschungsanfragen oder kommerzielle Nutzung:
 **Name:** Emanuel Schaaf  
 **E‑Mail:** [emanuel.schaaf@outlook.com](mailto:emanuel.schaaf@outlook.com)  
 **Standort:** Pirmasens, Deutschland  
-**Rolle:** Architekt & Urheber der Luminarit‑GreenRAM V2 Luminarit‑GreenRAM_V2.1–Server‑Grade Technologie
+**Rolle:** Architekt & Urheber der Luminarit‑GreenRAM V2 & Luminarit‑GreenRAM_V2.1–Server‑Grade & GreenRAM_V2.1_UHS Technologie
 
 ---
 
