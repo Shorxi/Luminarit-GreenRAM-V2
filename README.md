@@ -103,7 +103,7 @@ Die Architektur eliminiert Refresh‑Zyklen, verzichtet vollständig auf seltene
 und kann in bestehenden 65–90 nm DUV‑Fabs gefertigt werden.
 
 - [Warum-GreenRAM?](Why-GreenRAM.md)
-- 
+
 ### Vergleichstabelle: GreenRAM V2.1 UHS vs. Industriestandards
 
 | Parameter | Standard DRAM (DDR5/6) | Herkömmlicher ReRAM | STT-MRAM (High-End) | **GreenRAM V2.1 UHS** |
